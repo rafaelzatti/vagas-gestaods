@@ -1,6 +1,6 @@
 <h3>Vagas GestãoDS</a>
 <br>
-Lista de vagas abertas na <a href="https://gestaods.com.br/">GestãoDS</a>:
+Lista de vagas abertas na <a rel="nofollow" href="https://gestaods.com.br/">GestãoDS</a>:
 <br>
 <br>
 <p >Estágio - Implementação: 30h Presencial em Santa Maria, RS</p>
@@ -13,6 +13,6 @@ Lista de vagas abertas na <a href="https://gestaods.com.br/">GestãoDS</a>:
 <br>
 <p >PJ - Dev. Flutter|Dart Júnior/Sênior: 40h Remoto</p>
 <br>
-<p >Conheça a <a href="https://gestaods.com.br/" rel="nofollow">GestãoDS</a>.</p>
+<p >Conheça a <a rel="nofollow" href="https://gestaods.com.br/" rel="nofollow">GestãoDS</a>.</p>
 <br>
-<p >Envie seu currículo clicando <a href="https://forms.clickup.com/f/2z2jv-3482/SSPFIYL8QX9HXPZT0R" rel="nofollow">aqui</a>.</p>
+<p >Envie seu currículo clicando <a rel="nofollow" href="https://forms.clickup.com/f/2z2jv-3482/SSPFIYL8QX9HXPZT0R" rel="nofollow">aqui</a>.</p>
